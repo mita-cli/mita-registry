@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "test-template",
+    "description": "Minimal test template",
+    "type": "node",
+    "repo": "mita-cli/test-template",
+    "version": "1.0.0"
+  }
+]
